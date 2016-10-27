@@ -1,0 +1,20 @@
+{
+  "name": "javascript-repetition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPellegrene/javascript-repetition.git"
+  },
+  "keywords": [],
+  "author": "Sam Pellegrene <pellegrenesam@gmail.com> (https://medium.com/@sampellegrene)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SPellegrene/javascript-repetition/issues"
+  },
+  "homepage": "https://github.com/SPellegrene/javascript-repetition#readme"
+}
